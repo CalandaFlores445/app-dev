@@ -1,7 +1,8 @@
 # app-dev
 
-#Some good series and films that I recommend
-##Series:
+# Some good series and films that I recommend
+
+## Series:
 - Lanterns
 Well written and witty characters
 
@@ -18,7 +19,7 @@ Don't really need to explain this one
 For the peoples' philosophy and overall different view of life
 
 
-##Movies:
+## Movies:
 - Superman (2025)
 Fun and enjoyable, joy bait some would say. Also Mr. Terrific is goated
 
